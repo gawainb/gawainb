@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, we're The Creative Team</h1>
-<h3 align="center">Passionate developers with various levels of experience and expertise, but we ALL love Blockchain!!</h3>
+<h1 align="center">Hi 👋, I'm G2 CEO of G2entertainment Group</h1>
+<h3 align="center">We are passionate developers with various levels of experience and expertise, but we ALL love blockchain technolgy!!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=g2entgroup&label=Our%20%E2%9D%A4%20Count&color=e50068&style=flat" alt="g2entgroup" /> </p>
 
