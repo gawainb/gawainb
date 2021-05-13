@@ -25,7 +25,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=g2entgroup&show_icons=true&theme=synthwave&title_color=ffffff&text_color=2661a7&bg_color=e50068&hide_border=true&locale=en" alt="g2entgroup" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=g2entgroup&" alt="g2entgroup" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gawainb&" alt="gawainb" /></p>
 
 
 
